@@ -11,6 +11,8 @@ The architecture of the starting application is deliberately poor
 to give you an opportunity to demonstrate how you would tackle improving legacy
 code.
 
+Please be sure to use CLEAN architecture.
+
 ## The API
 
 You will need to use the following endpoints from the [JSON
@@ -55,12 +57,14 @@ Included in the starter repository:
 
 ## Requirements
 
--   Must be written in latest version of Dart.
+-   Must be written in latest version of Flutter/Dart.
 -   The project should build and run without errors.
+-   The project should follow CLEAN architecture.
+-   The project must implement localisation.
 -   Error handling should be considered.
 -   You can use whatever extra libraries you like but be prepared to
     justify your choices.
--   You should provide at least one example of a Widget test.
+-   You should provide at least one example of a Widget and a Unit test.
 -   You should submit the above as either a compressed git repository (zip file)
     or a link to your repository on github or similar hosting service.
     Please commit regularly as you carry out the task and
