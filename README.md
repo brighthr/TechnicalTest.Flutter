@@ -60,7 +60,7 @@ Included in the starter repository:
 -   Must be written in latest version of Flutter/Dart.
 -   The project should build and run without errors.
 -   The project should follow CLEAN architecture.
--   The project must implement localisation.
+-   The project must implement localisation ( and also demonstrate it in the application ).
 -   Error handling should be considered.
 -   You can use whatever extra libraries you like but be prepared to
     justify your choices.
